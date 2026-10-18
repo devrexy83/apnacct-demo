@@ -1,4 +1,4 @@
 # apnacct-demo
-my fist git repository
+my first git repository
 <br>
 Author - Pritam
